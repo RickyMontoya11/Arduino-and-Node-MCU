@@ -195,3 +195,6 @@ void loop()
 
   delay(60000);
 }
+
+
+http://arduinoamuete.blogspot.com/2016/12/utilizando-el-dht22.html
